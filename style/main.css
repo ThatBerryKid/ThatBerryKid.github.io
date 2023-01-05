@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: darkslategray;
+}
+h1 {
+    color: white;
+    font-size: 45px;
+}
+p {
+    color: #DBDBDB;
+    font-size: 25px;
+}
+.mainDiv {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: groove 10px #930000;
+    padding: 10%;
+    background-color: darkred;
+}
